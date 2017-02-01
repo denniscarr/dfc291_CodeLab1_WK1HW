@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Poltergun\Gun\Gun.cs">
+    <Files>
+      <File FileName="Assets\Poltergun\Interactive Object\InteractiveObject.cs" Line="23" Column="11" />
+      <File FileName="Assets\Poltergun\Gun\Gun.cs" Line="59" Column="22" />
+      <File FileName="Assets\Poltergun\Door Closer\DoorCloser.cs" Line="15" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
